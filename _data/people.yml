@@ -2,13 +2,13 @@ Daniel:
     display_name: "Daniel Kaufmann"
     webpage: "https://www.chumontreal.qc.ca/crchum/chercheurs/daniel-kaufmann"
     role: faculty
-    image: /img/people/prof-x.png
+    image: /img/people/Daniel.jpg
     bio: Université de Montréal, CHUM Research Centre
     
 Guy:
     display_name: "Guy Wolf"
     webpage: "http://guywolf.org/"
-    image: /img/people/prof-x.png
+    image: /img/people/Guy.jpg
     role: faculty
     bio: Université de Montréal, Mila - Quebec AI Institute
     
@@ -16,28 +16,28 @@ Julie:
     display_name: "Julie Hussin"
     webpage: "https://mhi-omics.org/people/julie-hussin/"
     role: faculty
-    image: /img/people/prof-x.png
+    image: /img/people/Julie.jpg
     bio: Université de Montréal, Montreal Heart Institute
     
 JC:
     display_name: "Jean-Christophe Grenier"
     webpage: "https://mhi-omics.org/people/jean-christophe-grenier/"
     role: staff
-    image: /img/people/prof-x.png
+    image: /img/people/JC.jpg
     bio: Université de Montréal, Montreal Heart Institute
 
 Martin:
     display_name: "Martin Smith"
     webpage: "https://www.therealsmithlab.com/"
     role: faculty
-    image: /img/people/prof-x.png
-    bio: Université de Montréal, CHUM Research Centre
+    image: /img/people/Martin.jpg
+    bio: Université de Montréal, CHU Sainte-Justine Research Center
 
 Morgan:
     display_name: "Morgan Craig"
     webpage: "https://morgancraiglab.com/about"
     role: faculty
-    image: /img/people/prof-x.png
+    image: /img/people/Morgan.jpg
     bio: Université de Montréal, CHU Sainte-Justine Research Center
     
 Sirui:
@@ -51,7 +51,7 @@ Smita:
     webpage: "https://www.krishnaswamylab.org/"
     image: /img/people/prof-x.png
     role: faculty
-    bio: Professor
+    bio: Yale University
 
 Jessie:
     display_name: "Jessie Huang"
@@ -60,13 +60,6 @@ Jessie:
     image: /img/people/prof-x.png
     bio: Yale University
 
-profx:
-    display_name: "Professor X"
-    webpage: "http://en.wikipedia.org/wiki/Professor_X"
-    github: profx
-    role: faculty
-    image: /img/people/prof-x.png
-    bio: Professor
 
 storm:
     display_name: "Storm"
@@ -110,88 +103,3 @@ grad-i:
     display_name: "Grad I"
     role: grad
 
-alum-a:
-    display_name: "Alum A"
-    role: alum
-    bio: "Ph.D., 2013. Now at Microsoft Research."
-
-alum-b:
-    display_name: "Alum B With Way Longer Name"
-    role: alum
-
-alum-c:
-    display_name: "Alum C"
-    role: alum
-    webpage: "https://www.google.com"
-
-alum-d:
-    display_name: "Alum D"
-    role: alum
-
-alum-e:
-    display_name: "Alum E"
-    role: alum
-
-alum-f:
-    display_name: "Alum F"
-    role: alum
-
-alum-g:
-    display_name: "Alum G"
-    role: alum
-
-alum-h:
-    display_name: "Alum H"
-    role: alum
-
-alum-i:
-    display_name: "Alum I"
-    role: alum
-
-collab-a:
-    display_name: "Collaborator A"
-    role: collab
-
-collab-b:
-    display_name: "Collaborator B With Long Name"
-    role: collab
-
-collab-c:
-    display_name: "Collaborator C"
-    role: collab
-
-collab-d:
-    display_name: "Collaborator D"
-    role: collab
-
-collab-e:
-    display_name: "Collaborator E"
-    role: collab
-
-ugrad-a:
-    display_name: "Ugrad A"
-    role: ugrad
-
-ugrad-b:
-    display_name: "Ugrad Student B With Long Name"
-    role: ugrad
-
-ugrad-c:
-    display_name: "Ugrad C"
-    role: ugrad
-
-ugrad-d:
-    display_name: "Ugrad D"
-    role: ugrad
-
-ugrad-e:
-    display_name: "Ugrad E"
-    role: ugrad
-
-ugrad-alum-a:
-    display_name: "Past Ugrad A"
-    role: ugrad-alum
-
-ugrad-alum-b:
-    display_name: "Past Ugrad Student B With Long Name"
-    role: ugrad-alum
