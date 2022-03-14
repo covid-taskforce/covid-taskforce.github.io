@@ -22,42 +22,47 @@ role-tables:
 
 <div class="jumbotron">
     <p>
-        The <b>Awesome Research Group</b> at <b>Example U</b> does all sorts of
-        research. Here is a place where we tell you exactly what that is!
+        The <b>COVID-19 Task Force</b> is a collaboration between researchers to answer COVID-19 research questions
+        via data-driven methods. Our team is composed of members from the Université de Montréal, Yale University and
+        McGill University. Participating research laboratories include <a href="https://mila.quebec/en/">Mila</a>,
+        <a href="https://www.krishnaswamylab.org/">Krishnaswamy Lab</a>, <a href="https://mhi-omics.org/">MHI-omics</a>,
+        <a href="https://microbiologie.umontreal.ca/en/professeurs-chercheurs/daniel-kaufmann/">Kaufmann Lab</a>,
+        <a href="https://morgancraiglab.com/about">Quantitative and Translational Medicine Laboratory </a>, and
+        <a href="https://www.therealsmithlab.com/">Smith Lab</a>.
     </p>
 </div>
 
-<section>
-    <h2>News</h2>
-    <ul class="news list-unstyled">
-        {% for post in site.posts limit: site.front_page_news %}
-            {% include news-item.html item=post %}
-        {% endfor %}
-    </ul>
-    {% assign numposts = site.posts | size %}
-    {% if numposts >= 1 %}
-        <p>
-            <span class="fa fa-fw fa-history"></span>
-            <a href="{{ site.base }}/blog.html">Older posts&hellip;</a>
-        </p>
-    {% endif %}
-</section>
+<!--<section>-->
+<!--    <h2>News</h2>-->
+<!--    <ul class="news list-unstyled">-->
+<!--        {% for post in site.posts limit: site.front_page_news %}-->
+<!--            {% include news-item.html item=post %}-->
+<!--        {% endfor %}-->
+<!--    </ul>-->
+<!--    {% assign numposts = site.posts | size %}-->
+<!--    {% if numposts >= 1 %}-->
+<!--        <p>-->
+<!--            <span class="fa fa-fw fa-history"></span>-->
+<!--            <a href="{{ site.base }}/blog.html">Older posts&hellip;</a>-->
+<!--        </p>-->
+<!--    {% endif %}-->
+<!--</section>-->
 
-<section>
-    <h2>Research</h2>
-    <div class="card-columns">
-        {% comment %}
-        Sort the projects by date, putting those without dates last
-        {% endcomment %}
-        {% assign projects_by_date = site.projects | sort: 'last-updated', 'first' %}
-        {% assign projects_by_date = projects_by_date | reverse %}
-        {% for p in projects_by_date %}
-            {% if p.status != "inactive" %}
-                {% include project-card.html project=p %}
-            {% endif %}
-        {% endfor %}
-    </div>
-</section>
+<!--<section>-->
+<!--    <h2>Research</h2>-->
+<!--    <div class="card-columns">-->
+<!--        {% comment %}-->
+<!--        Sort the projects by date, putting those without dates last-->
+<!--        {% endcomment %}-->
+<!--        {% assign projects_by_date = site.projects | sort: 'last-updated', 'first' %}-->
+<!--        {% assign projects_by_date = projects_by_date | reverse %}-->
+<!--        {% for p in projects_by_date %}-->
+<!--            {% if p.status != "inactive" %}-->
+<!--                {% include project-card.html project=p %}-->
+<!--            {% endif %}-->
+<!--        {% endfor %}-->
+<!--    </div>-->
+<!--</section>-->
 
 <div id="people">
     <h2>People</h2>
