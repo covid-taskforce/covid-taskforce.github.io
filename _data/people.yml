@@ -67,39 +67,23 @@ storm:
     role: grad
     image: /img/people/storm.png
 
-grad-a:
-    display_name: "Grad A"
+grad-1:
+    display_name: "Dominique Fournelle"
     role: grad
 
-grad-b:
-    display_name: "Graduate Student B With Long Name"
+grad-2:
+    display_name: "Elsa Brunet-Ratnasingham"
     role: grad
 
-grad-c:
-    display_name: "Grad C"
+grad-3:
+    display_name: "Fatima Mostefai"
     role: grad
 
-grad-d:
-    display_name: "Grad D"
+grad-4:
+    display_name: "Sacha Morin"
     role: grad
 
-grad-e:
-    display_name: "Grad E"
-    role: grad
-
-grad-f:
-    display_name: "Grad F"
-    role: grad
-
-grad-g:
-    display_name: "Grad G"
-    role: grad
-
-grad-h:
-    display_name: "Grad H"
-    role: grad
-
-grad-i:
-    display_name: "Grad I"
+grad-5:
+    display_name: "Shuang Ni"
     role: grad
 
