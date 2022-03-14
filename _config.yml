@@ -1,5 +1,5 @@
-name: Awesome Research Group
-url: http://awesome.example.edu
+name: covid-taskforce
+url: https://covid-taskforce.github.io/
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
 
