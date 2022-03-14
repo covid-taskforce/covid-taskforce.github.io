@@ -42,14 +42,14 @@ Morgan:
     
 Sirui:
     display_name: "Sirui Zhou"
-    image: /img/people/prof-x.png
+    image: /img/people/Sirui.jpg
     role: faculty
     bio: McGill University
     
 Smita:
     display_name: "Smita Krishnaswamy"
     webpage: "https://www.krishnaswamylab.org/"
-    image: /img/people/prof-x.png
+    image: /img/people/Smita.jpg
     role: faculty
     bio: Yale University
 
@@ -57,7 +57,7 @@ Jessie:
     display_name: "Jessie Huang"
     webpage: "https://sites.google.com/view/jessiehuang"
     role: postdoc
-    image: /img/people/prof-x.png
+    image: /img/people/Jessie.png
     bio: Yale University
 
 
