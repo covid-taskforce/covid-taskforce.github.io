@@ -1,15 +1,64 @@
-
-prof-a:
-    display_name: "Prof A"
+Daniel:
+    display_name: "Daniel Kaufmann"
+    webpage: "https://www.chumontreal.qc.ca/crchum/chercheurs/daniel-kaufmann"
     role: faculty
-
-prof-b:
-    display_name: "Prof B"
+    image: /img/people/prof-x.png
+    bio: Université de Montréal, CHUM Research Centre
+    
+Guy:
+    display_name: "Guy Wolf"
+    webpage: "http://guywolf.org/"
+    image: /img/people/prof-x.png
     role: faculty
-
-prof-c:
-    display_name: "Prof C"
+    bio: Université de Montréal, Mila - Quebec AI Institute
+    
+Julie:
+    display_name: "Julie Hussin"
+    webpage: "https://mhi-omics.org/people/julie-hussin/"
     role: faculty
+    image: /img/people/prof-x.png
+    bio: Université de Montréal, Montreal Heart Institute
+    
+JC:
+    display_name: "Jean-Christophe Grenier"
+    webpage: "https://mhi-omics.org/people/jean-christophe-grenier/"
+    role: staff
+    image: /img/people/prof-x.png
+    bio: Université de Montréal, Montreal Heart Institute
+
+Martin:
+    display_name: "Martin Smith"
+    webpage: "https://www.therealsmithlab.com/"
+    role: faculty
+    image: /img/people/prof-x.png
+    bio: Université de Montréal, CHUM Research Centre
+
+Morgan:
+    display_name: "Morgan Craig"
+    webpage: "https://morgancraiglab.com/about"
+    role: faculty
+    image: /img/people/prof-x.png
+    bio: Université de Montréal, CHU Sainte-Justine Research Center
+    
+Sirui:
+    display_name: "Sirui Zhou"
+    image: /img/people/prof-x.png
+    role: faculty
+    bio: McGill University
+    
+Smita:
+    display_name: "Smita Krishnaswamy"
+    webpage: "https://www.krishnaswamylab.org/"
+    image: /img/people/prof-x.png
+    role: faculty
+    bio: Professor
+
+Jessie:
+    display_name: "Jessie Huang"
+    webpage: "https://sites.google.com/view/jessiehuang"
+    role: postdoc
+    image: /img/people/prof-x.png
+    bio: Yale University
 
 profx:
     display_name: "Professor X"
@@ -18,19 +67,6 @@ profx:
     role: faculty
     image: /img/people/prof-x.png
     bio: Professor
-
-scott:
-    display_name: "Scott Summers"
-    webpage: "http://en.wikipedia.org/wiki/Cyclops_(comics)"
-    role: staff
-    image: /img/people/scott.png
-    bio: aka Cyclops
-
-wolverine:
-    display_name: "Wolverine"
-    webpage: "http://en.wikipedia.org/wiki/Wolverine_%28comics%29"
-    github: wolverine
-    role: postdoc
 
 storm:
     display_name: "Storm"
