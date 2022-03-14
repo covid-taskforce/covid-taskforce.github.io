@@ -22,7 +22,7 @@ Julie:
 JC:
     display_name: "Jean-Christophe Grenier"
     webpage: "https://mhi-omics.org/people/jean-christophe-grenier/"
-    role: postdoc
+    role: researcher
     image: /img/people/JC.jpg
     bio: Université de Montréal, Montreal Heart Institute
 
@@ -56,34 +56,35 @@ Smita:
 Jessie:
     display_name: "Jessie Huang"
     webpage: "https://sites.google.com/view/jessiehuang"
-    role: postdoc
+    role: researcher
     image: /img/people/Jessie.png
     bio: Yale University
-
-
-storm:
-    display_name: "Storm"
-    webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
-    role: grad
-    image: /img/people/storm.png
 
 grad-1:
     display_name: "Dominique Fournelle"
     role: grad
+    webpage: "https://mhi-omics.org/people/dominique-fournelle/"
+    bio: Université de Montréal
 
 grad-2:
     display_name: "Elsa Brunet-Ratnasingham"
     role: grad
+    bio: CHUM Research Centre
 
 grad-3:
     display_name: "Fatima Mostefai"
     role: grad
+    webpage: "https://mhi-omics.org/people/fatima-mostefai/"
+    bio: Université de Montréal
 
 grad-4:
     display_name: "Sacha Morin"
     role: grad
+    bio: Université de Montréal, Mila - Quebec AI Institute
 
 grad-5:
     display_name: "Shuang Ni"
     role: grad
+    webpage: "https://mila.quebec/en/person/shuang-ni/"
+    bio: Université de Montréal, Mila - Quebec AI Institute
 
