@@ -3,10 +3,13 @@
 
 $gray: #999;
 $light-gray: #EEE;
+$link-color: #6e006e;
+$base-font-size: 14px;
 
 /* Space out content a bit */
 body {
     padding-top: 20px;
+    font-size: $base-font-size;
 }
 
 .header {
@@ -24,7 +27,7 @@ body {
     font-size: 0.8em;
 
     a:link, a:visited {
-        color: $gray;
+        color: $link-color;
     }
 }
 
@@ -53,9 +56,9 @@ a > .fa {
 
 /* Group logo */
 #logo {
-    width: 154px;
-    height: 35px;
-    margin: 2px 0 8px 0;
+    width: 327px;
+    height: 100px;
+    margin: 2px 0 2px 0;
 }
 
 /* Front page news. */
