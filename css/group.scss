@@ -4,12 +4,12 @@
 $gray: #999;
 $light-gray: #EEE;
 $link-color: #6e006e;
-$base-font-size: 14px;
+$base-font-size: 16px;
 
 /* Space out content a bit */
 body {
     padding-top: 20px;
-    font-size: $base-font-size;
+    font-size: $base-font-size+2;
 }
 
 .header {
@@ -27,7 +27,7 @@ body {
     font-size: 0.8em;
 
     a:link, a:visited {
-        color: $link-color;
+        color: $gray;
     }
 }
 
@@ -129,6 +129,7 @@ section {
 
     .bio {
         color: $gray;
+        font-size: $base-font-size - 2;
     }
 
     .person-name {
