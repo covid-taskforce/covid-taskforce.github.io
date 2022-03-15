@@ -6,6 +6,8 @@ $light-gray: #EEE;
 $link-color: #6e006e;
 $base-font-size: 20px;
 
+
+
 /* Space out content a bit */
 body {
     padding-top: 20px;
@@ -29,6 +31,38 @@ a {
         color: $link-color;
     }
 }
+
+
+/* not active */
+.nav-pills .pill-1 .nav-link:not(.active) {
+    background-color: rgba(255, 0, 0, 0.5);
+}
+
+.nav-pills .pill-2 .nav-link:not(.active) {
+    background-color: rgba(0, 250, 0, 0.5);
+}
+
+.nav-pills .pill-3 .nav-link:not(.active) {
+    background-color: rgba(0, 0, 250, 0.5);
+    color: white;
+}
+
+
+/* active (faded) */
+.nav-pills .pill-1 .nav-link {
+    background-color: rgba(255, 0, 0, 0.2);
+    color: white;
+}
+
+.nav-pills .pill-2 .nav-link {
+    background-color: rgba(0, 250, 0, 0.2);
+}
+
+.nav-pills .pill-3 .nav-link {
+    background-color: rgba(0, 0, 250, 0.2);
+    color: white;
+}
+
 
 .footer {
     /* padding-top: 19px; */
@@ -143,11 +177,9 @@ section {
 
     .bio {
         color: $gray;
-        font-size: $base-font-size - 2;
     }
 
     .person-name {
-        font-size: $base-font-size;
         margin: 0;
     }
 }
