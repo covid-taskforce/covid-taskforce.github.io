@@ -10,7 +10,7 @@ Guy:
     webpage: "http://guywolf.org/"
     image: /img/people/Guy.jpg
     role: faculty
-    bio: Université de Montréal, Mila - Quebec AI Institute
+    bio: Université de Montréal, Mila - Quebec AI Institute, CHUM Research Centre
     
 Julie:
     display_name: "Julie Hussin"
@@ -62,6 +62,7 @@ Jessie:
 
 grad-1:
     display_name: "Dominique Fournelle"
+    image: /img/people/Dominique.JPG
     role: grad
     webpage: "https://mhi-omics.org/people/dominique-fournelle/"
     bio: Université de Montréal, Montreal Heart Institute
