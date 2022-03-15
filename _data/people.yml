@@ -64,22 +64,31 @@ grad-1:
     display_name: "Dominique Fournelle"
     role: grad
     webpage: "https://mhi-omics.org/people/dominique-fournelle/"
+    bio: Université de Montréal, Montreal Heart Institute
 
 grad-2:
     display_name: "Elsa Brunet-Ratnasingham"
+    image: /img/people/Elsa.jpg
     role: grad
+    bio: Université de Montréal, CHUM Research Centre
 
 grad-3:
     display_name: "Fatima Mostefai"
+    image: /img/people/Fatima.jpg
     role: grad
     webpage: "https://mhi-omics.org/people/fatima-mostefai/"
+    bio: Université de Montréal, Montreal Heart Institute
 
 grad-4:
     display_name: "Sacha Morin"
+    image: /img/people/Sacha.jpg
     role: grad
+    bio: Université de Montréal, Mila - Quebec AI Institute
 
 grad-5:
     display_name: "Shuang Ni"
+    image: /img/people/Shuang.jpg
     role: grad
     webpage: "https://mila.quebec/en/person/shuang-ni/"
+    bio: Université de Montréal, Mila - Quebec AI Institute
 
