@@ -32,6 +32,17 @@ a {
         color: $link-color;
     }
 }
+.nav-pills .nav-item .nav-link:not(.active) {
+    background-color: #ffffff;
+    color: $link-color;
+}
+
+
+/* active (faded) */
+.nav-pills .nav-item .nav-link {
+    background-color: $link-color;
+    color: white;
+}
 
 .footer {
     /* padding-top: 19px; */
