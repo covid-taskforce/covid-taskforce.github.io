@@ -1,9 +1,40 @@
+# Faculty
+# Alphabetical order
+
+CraigMorgan:
+    display_name: "Morgan Craig"
+    webpage: "https://morgancraiglab.com/about"
+    role: faculty
+    image: /img/people/Morgan.jpg
+    bio: Université de Montréal, CHU Sainte-Justine Research Center
+
+HussinJulie:
+    display_name: "Julie Hussin"
+    webpage: "https://mhi-omics.org/people/julie-hussin/"
+    role: faculty
+    image: /img/people/Julie.jpg
+    bio: Université de Montréal, Montreal Heart Institute
+   
 KaufmannDaniel:
     display_name: "Daniel Kaufmann"
     webpage: "https://www.chumontreal.qc.ca/crchum/chercheurs/daniel-kaufmann"
     role: faculty
     image: /img/people/Daniel.jpg
     bio: Université de Montréal, CHUM Research Centre
+    
+KrishnaswamySmita:
+    display_name: "Smita Krishnaswamy"
+    webpage: "https://www.krishnaswamylab.org/"
+    image: /img/people/Smita.jpg
+    role: faculty
+    bio: Yale University
+    
+SmithMartin:
+    display_name: "Martin Smith"
+    webpage: "https://www.therealsmithlab.com/"
+    role: faculty
+    image: /img/people/Martin.jpg
+    bio: Université de Montréal, CHU Sainte-Justine Research Center
     
 WolfGuy:
     display_name: "Guy Wolf"
@@ -12,13 +43,16 @@ WolfGuy:
     role: faculty
     bio: Université de Montréal, Mila - Quebec AI Institute, CHUM Research Centre
     
-HussinJulie:
-    display_name: "Julie Hussin"
-    webpage: "https://mhi-omics.org/people/julie-hussin/"
+ZhouSirui:
+    display_name: "Sirui Zhou"
+    image: /img/people/Sirui.jpg
     role: faculty
-    image: /img/people/Julie.jpg
-    bio: Université de Montréal, Montreal Heart Institute
+    bio: McGill University
     
+
+# Staff
+# Alphabetical order
+
 GrenierJC:
     display_name: "Jean-Christophe Grenier"
     webpage: "https://mhi-omics.org/people/jean-christophe-grenier/"
@@ -26,39 +60,22 @@ GrenierJC:
     image: /img/people/JC.jpg
     bio: Université de Montréal, Montreal Heart Institute
 
-SmithMartin:
-    display_name: "Martin Smith"
-    webpage: "https://www.therealsmithlab.com/"
-    role: faculty
-    image: /img/people/Martin.jpg
-    bio: Université de Montréal, CHU Sainte-Justine Research Center
-
-CraigMorgan:
-    display_name: "Morgan Craig"
-    webpage: "https://morgancraiglab.com/about"
-    role: faculty
-    image: /img/people/Morgan.jpg
-    bio: Université de Montréal, CHU Sainte-Justine Research Center
-    
-ZhouSirui:
-    display_name: "Sirui Zhou"
-    image: /img/people/Sirui.jpg
-    role: faculty
-    bio: McGill University
-    
-KrishnaswamySmita:
-    display_name: "Smita Krishnaswamy"
-    webpage: "https://www.krishnaswamylab.org/"
-    image: /img/people/Smita.jpg
-    role: faculty
-    bio: Yale University
-
 HuangJessie:
     display_name: "Jessie Huang"
     webpage: "https://sites.google.com/view/jessiehuang"
     role: researcher
     image: /img/people/Jessie.png
     bio: Yale University
+    
+ 
+# Grads
+# Alphabetical order
+
+Brunet-RatnasinghamElsa:
+    display_name: "Elsa Brunet-Ratnasingham"
+    image: /img/people/Elsa.jpg
+    role: grad
+    bio: Université de Montréal, CHUM Research Centre
 
 FournelleDominique:
     display_name: "Dominique Fournelle"
@@ -66,12 +83,6 @@ FournelleDominique:
     role: grad
     webpage: "https://mhi-omics.org/people/dominique-fournelle/"
     bio: Université de Montréal, Montreal Heart Institute
-
-Brunet-RatnasinghamElsa:
-    display_name: "Elsa Brunet-Ratnasingham"
-    image: /img/people/Elsa.jpg
-    role: grad
-    bio: Université de Montréal, CHUM Research Centre
 
 MostefaiFatima:
     display_name: "Fatima Mostefai"
