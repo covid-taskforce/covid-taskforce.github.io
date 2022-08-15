@@ -95,6 +95,7 @@ MorinSacha:
     display_name: "Sacha Morin"
     image: /img/people/Sacha.jpg
     role: grad
+    webpage: "https://sachamorin.github.io/"
     bio: Université de Montréal, Mila - Quebec AI Institute
 
 NiShuang:
